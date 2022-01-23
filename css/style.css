@@ -18,3 +18,16 @@ body {
 .banner {
     height: calc(100vh - 80px);
 }
+
+.new-design {
+    height: 100vh;
+}
+
+.stop-writting {
+    background-image: url(../images/background.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+}
